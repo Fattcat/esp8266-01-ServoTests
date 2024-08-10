@@ -13,5 +13,7 @@
 - 4 Copy & paste the code to Arduino IDE
 - 5 Upload the code
 - 6 on Your Phone connect to WiFi Called "ServoControll" and write password "Servo001"
-- Open Your Web browser and type this : 192.168.4.1 (and enter)
-- Control your servo with mooving finger on pointer
+- OR Sellect other code for connect your esp8266 01 to Your OWN WiFi Network
+- 6 Open Your Web browser and type this : 192.168.4.1 (and enter)
+- 8 Control your servo with mooving finger on pointer
+## Thats it & all ... Enjoy :D
