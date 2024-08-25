@@ -6,6 +6,9 @@
 - GND (Brown) --------> GND
 - ServoPin (Orange) --> GPIO 2 (Pin 2)
 
+## esp8266-01 Pins
+![Image](esp8266-01-PinOut.jpg)
+
 # Setup
 - 1 Open Arduino IDE
 - 2 Sellect Generic esp8266 Board
